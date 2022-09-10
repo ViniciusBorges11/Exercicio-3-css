@@ -1,0 +1,14 @@
+#tbl1{
+    border: solid 1px black;
+    width: 766;
+    height: 36;
+    border-collapse: collapse;
+  }
+ #body1{
+    background-color: rgb(235, 235, 104);
+  }
+  #origem{
+    border: 1px solid black;
+    text-align: center;
+
+  }
